@@ -3,4 +3,4 @@ Personal website. Work in progress.
 
 Located at davidshan.me
 
-Based (heavily) off of the Freelancer Bootstrap theme!
+Built using the Freelancer Bootstrap Theme.
