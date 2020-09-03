@@ -1,0 +1,30 @@
+h1 {
+    color: white;
+    font-family: 'Raleway', serif;
+    font-weight: bold;
+}
+
+.landingText {
+    text-align: center;
+    margin-top: 350px;
+}
+
+.externalLink {
+    color: white;
+}
+
+.externalLink:hover {
+    color: gray;
+}
+
+body {
+    background-image: url('../img/background/cloud_mountain.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p {
+    font-family: 'Raleway', serif;
+    color: white;
+}
