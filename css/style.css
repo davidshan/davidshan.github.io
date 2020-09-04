@@ -4,16 +4,16 @@ h1 {
     font-weight: bold;
 }
 
-.landingText {
+.landing-text {
     text-align: center;
-    margin-top: 350px;
+    margin-top: 21%;
 }
 
-.externalLink {
+.external-link {
     color: white;
 }
 
-.externalLink:hover {
+.external-link:hover {
     color: #EC33FF;
 }
 
