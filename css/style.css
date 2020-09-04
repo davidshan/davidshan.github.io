@@ -6,6 +6,7 @@ h1 {
 
 .landing {
     background-color: black;
+    max-width: 600px;
     margin: auto;
     margin-top: 21%;
 }
