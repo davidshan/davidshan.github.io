@@ -5,13 +5,14 @@ h1 {
 }
 
 .landing {
-    background-color: black;
-    max-width: 600px;
-    margin: auto;
-    margin-top: 21%;
+    /* background-color: black; */
 }
 .landing-text {
     text-align: center;
+    /* background-color: green; */
+    max-width: 600px;
+    margin: auto;
+    margin-top: 21%;
 }
 
 .external-link {
@@ -23,7 +24,7 @@ h1 {
 }
 
 body {
-    background-image: url('../img/background/cloud_mountain.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../img/background/cloud_mountain.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -32,5 +33,17 @@ body {
 p {
     font-family: 'Raleway', serif;
     color: white;
-    background-color: red;
+    /* background-color: red; */
+}
+
+/* Portfolio Stuff */
+.portfolio {
+    text-align: center;
+    background-color: black;
+    margin: auto;
+    margin-top: 21%;
+}
+
+.portfolio-header {
+    font-family: 'Roboto', serif;
 }
