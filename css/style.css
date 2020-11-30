@@ -42,6 +42,7 @@ p {
     background-color: black;
     margin: auto;
     margin-top: 21%;
+    display: none; /* UNDER DEVELOPMENT */
 }
 
 .portfolio-header {
